@@ -1,1 +1,6 @@
-½Ì³ÌÎÄµµ https://blog.csdn.net/forezp/article/details/81041028 
+æ•™ç¨‹åœ°å€ï¼š https://blog.csdn.net/forezp/article/details/81041028 
+
+jdk 1.8
+idea
+maven 
+Spring Cloud Finchley; Spring Boot 2.0.3
